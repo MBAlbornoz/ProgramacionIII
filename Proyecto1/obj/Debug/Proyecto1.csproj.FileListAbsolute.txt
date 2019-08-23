@@ -1,0 +1,10 @@
+D:\UTN\Programacion III\Clase 1\Proyecto1\Proyecto1\bin\Debug\Proyecto1.exe.config
+D:\UTN\Programacion III\Clase 1\Proyecto1\Proyecto1\bin\Debug\Proyecto1.exe
+D:\UTN\Programacion III\Clase 1\Proyecto1\Proyecto1\bin\Debug\Proyecto1.pdb
+D:\UTN\Programacion III\Clase 1\Proyecto1\Proyecto1\obj\Debug\Proyecto1.csprojAssemblyReference.cache
+D:\UTN\Programacion III\Clase 1\Proyecto1\Proyecto1\obj\Debug\Proyecto1.Form1.resources
+D:\UTN\Programacion III\Clase 1\Proyecto1\Proyecto1\obj\Debug\Proyecto1.Properties.Resources.resources
+D:\UTN\Programacion III\Clase 1\Proyecto1\Proyecto1\obj\Debug\Proyecto1.csproj.GenerateResource.cache
+D:\UTN\Programacion III\Clase 1\Proyecto1\Proyecto1\obj\Debug\Proyecto1.csproj.CoreCompileInputs.cache
+D:\UTN\Programacion III\Clase 1\Proyecto1\Proyecto1\obj\Debug\Proyecto1.exe
+D:\UTN\Programacion III\Clase 1\Proyecto1\Proyecto1\obj\Debug\Proyecto1.pdb
